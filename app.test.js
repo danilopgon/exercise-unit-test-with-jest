@@ -13,4 +13,4 @@ test("One euro should be 1.206 dollars", () => {
 });
 
 
-test("Two euros should be 2.412 dollars", () => {})
+test("Two euros should be 2.412 dollars", () => {}
